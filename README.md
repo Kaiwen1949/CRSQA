@@ -10,3 +10,6 @@ Cross-Reference Omnidirectional Stitching data Set (CROSS) is a large dataset fo
 There is in total 10 senses devided into indoor and outdoor two categories. The dataset is organized as follow:
 * Indoor: meeting room, class room, stairs, underground park, dance room, reading-room
 * Outdoor: street, wild area, basketball court and residential area.
+
+## Download dataset
+https://drive.google.com/open?id=1cNEwCeOfZCGKt8txYH0UgiNbL3FbCeEf
