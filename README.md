@@ -12,6 +12,22 @@ There is in total 10 senses devided into indoor and outdoor two categories. The 
 * Outdoor: street, wild area, basketball court and residential area.
 
 ![](https://github.com/Kaiwen1949/CRSQA/blob/master/Images/360_0792_lowresolution.JPG)
+<table>
+    <tr>
+        <td ><center><img src="https://github.com/Kaiwen1949/CRSQA/blob/master/Images/360_0792_lowresolution.JPG" >图1  新垣结衣1 </center></td>
+        <td ><center><img src="https://github.com/Kaiwen1949/CRSQA/blob/master/Images/360_0792_lowresolution.JPG"  >图2 新垣结衣1</center></td>
+    </tr>
+
+    <tr>
+        <td><center><img src="https://github.com/Kaiwen1949/CRSQA/blob/master/Images/360_0792_lowresolution.JPG"  >图3 新垣结衣2</center></td>
+        <td ><center><img src="https://github.com/Kaiwen1949/CRSQA/blob/master/Images/360_0792_lowresolution.JPG"  >图4 新垣结衣2</center> </td>
+    </tr>
+
+    <tr>
+        <td><center><img src="https://github.com/Kaiwen1949/CRSQA/blob/master/Images/360_0792_lowresolution.JPG"   > 图5 新垣结衣3</center></td>
+        <td><center><img src="https://github.com/Kaiwen1949/CRSQA/blob/master/Images/360_0792_lowresolution.JPG"  > 图6 新垣结衣3</center></td>
+    </tr>
+</table>
 
 ## Download dataset
 https://drive.google.com/open?id=1cNEwCeOfZCGKt8txYH0UgiNbL3FbCeEf
