@@ -16,12 +16,10 @@ There is in total 10 senses divided into indoor and outdoor two categories. The 
 [//]:#![](https://github.com/Kaiwen1949/CRSQA/blob/master/Images/360_0792_lowresolution.JPG)
 <table>
     <tr>
-        <td><center><img src="https://github.com/Kaiwen1949/CRSQA/blob/master/Motivation.PNG" >Fisheye</center></td>
-        <td><center><img src="https://github.com/Kaiwen1949/CRSQA/blob/master/Pipeline.PNG" >Fisheye</center></td>
+        <td><center><img src="https://github.com/Kaiwen1949/CRSQA/blob/master/Motivation.PNG" >Motivation</center></td>
+        <td><center><img src="https://github.com/Kaiwen1949/CRSQA/blob/master/pipeline.PNG" >Pipeline</center></td>
     </tr>
 </table>
-
-
 Each group images are composed by fisheye image and 7 omnidirectional stitching images which are as follow:
 <table>
     <tr>
