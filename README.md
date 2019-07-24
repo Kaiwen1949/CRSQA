@@ -15,16 +15,16 @@ There is in total 10 senses devided into indoor and outdoor two categories. The 
 <table>
     <tr>
         <td ><center><img src="https://github.com/Kaiwen1949/CRSQA/blob/master/Images/360_0792_lowresolution.JPG" >Fisheye</center></td>
-        <td ><center><img src="https://github.com/Kaiwen1949/CRSQA/blob/master/Images/360_0792_lowresolution.JPG">samsung</center></td>
-       <td><center><img src="https://github.com/Kaiwen1949/CRSQA/blob/master/Images/360_0792_lowresolution.JPG">opensource</center></td>
-       <td ><center><img src="https://github.com/Kaiwen1949/CRSQA/blob/master/Images/360_0792_lowresolution.JPG">weimethod</center></td>
+        <td ><center><img src="https://github.com/Kaiwen1949/CRSQA/blob/master/Images/samsung_lowresolution.jpg">samsung</center></td>
+       <td><center><img src="https://github.com/Kaiwen1949/CRSQA/blob/master/Images/opensource_lowresolution.jpg">opensource</center></td>
+       <td ><center><img src="https://github.com/Kaiwen1949/CRSQA/blob/master/Images/weimethod_lowresolution.jpg">weimethod</center></td>
 </tr>
             
 <tr>
-        <td><center><img src="https://github.com/Kaiwen1949/CRSQA/blob/master/Images/360_0792_lowresolution.JPG">SVP</center></td>
-        <td><center><img src="https://github.com/Kaiwen1949/CRSQA/blob/master/Images/360_0792_lowresolution.JPG">manmethod</center></td>
-        <td><center><img src="https://github.com/Kaiwen1949/CRSQA/blob/master/Images/360_0792_lowresolution.JPG"> IP</center></td>
-        <td><center><img src="https://github.com/Kaiwen1949/CRSQA/blob/master/Images/360_0792_lowresolution.JPG"> EP</center></td>
+        <td><center><img src="https://github.com/Kaiwen1949/CRSQA/blob/master/Images/SVP_lowresolution.jpg">SVP</center></td>
+        <td><center><img src="https://github.com/Kaiwen1949/CRSQA/blob/master/Images/manmethod_lowresolution.jpg">manmethod</center></td>
+        <td><center><img src="https://github.com/Kaiwen1949/CRSQA/blob/master/Images/IP_lowresolution.jpg"> IP</center></td>
+        <td><center><img src="https://github.com/Kaiwen1949/CRSQA/blob/master/Images/EP_lowresolution.jpg"> EP</center></td>
 </tr>
 </table>
 
