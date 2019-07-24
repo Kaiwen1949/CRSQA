@@ -4,6 +4,8 @@ This repository is to provide the relative tools for the research about 360 omni
 
 About the study report, our lab cvteam had published the paper 《Cross-Reference Stitching Quality Assessment for 360 Omnidirectional Images》 on ACM Multimedia 2019.
 
+![Motivation](https://github.com/Kaiwen1949/CRSQA/blob/master/Motivation.PNG)
+
 ## Introduction
 Cross-Reference Omnidirectional Stitching data Set (CROSS) is a large dataset for 360 omnidirectional images stitching quality assessment.
 
