@@ -23,9 +23,6 @@ There is in total 10 senses devided into indoor and outdoor two categories. The 
 <tr>
         <td><center><img src="https://github.com/Kaiwen1949/CRSQA/blob/master/Images/360_0792_lowresolution.JPG">SVP</center></td>
         <td><center><img src="https://github.com/Kaiwen1949/CRSQA/blob/master/Images/360_0792_lowresolution.JPG">manmethod</center></td>
-</tr>
-    
-<tr>
         <td><center><img src="https://github.com/Kaiwen1949/CRSQA/blob/master/Images/360_0792_lowresolution.JPG"> IP</center></td>
         <td><center><img src="https://github.com/Kaiwen1949/CRSQA/blob/master/Images/360_0792_lowresolution.JPG"> EP</center></td>
 </tr>
