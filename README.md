@@ -12,6 +12,8 @@ There is in total 10 senses devided into indoor and outdoor two categories. The 
 * Outdoor: street, wild area, basketball court and residential area.
 
 [//]:#![](https://github.com/Kaiwen1949/CRSQA/blob/master/Images/360_0792_lowresolution.JPG)
+
+Each group images are composed by fisheye image and 7 omnidirectional stitching images.
 <table>
     <tr>
         <td ><center><img src="https://github.com/Kaiwen1949/CRSQA/blob/master/Images/360_0792_lowresolution.JPG" >Fisheye</center></td>
