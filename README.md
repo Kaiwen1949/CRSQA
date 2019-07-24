@@ -11,5 +11,7 @@ There is in total 10 senses devided into indoor and outdoor two categories. The 
 * Indoor: meeting room, class room, stairs, underground park, dance room, reading-room
 * Outdoor: street, wild area, basketball court and residential area.
 
+![](https://github.com/Kaiwen1949/CRSQA/Images/360_)
+
 ## Download dataset
 https://drive.google.com/open?id=1cNEwCeOfZCGKt8txYH0UgiNbL3FbCeEf
