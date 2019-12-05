@@ -39,5 +39,4 @@ Each group images are composed by fisheye image and 7 omnidirectional stitching 
 </table>
 
 ## Download dataset
-https://drive.google.com/open?id=1cNEwCeOfZCGKt8txYH0UgiNbL3FbCeEf
-Note:The dataset is being updated and will be uploaded in the next few months.
+https://drive.google.com/open?id=1cNEwCeOfZCGKt8txYH0UgiNbL3FbCeEf (The datasets are being updated and will be uploaded in the next few months.)
