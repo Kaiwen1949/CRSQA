@@ -15,11 +15,15 @@ Cross-Reference Omnidirectional Stitching data Set (CROSS) is a large dataset fo
     </tr>
 </table>
 
-There is in total 10 senses divided into indoor and outdoor two categories. The dataset is organized as follow:
-* Indoor: meeting room, classroom, stairs, underground park, dance room, reading-room
-* Outdoor: street, wild area, basketball court, and residential area.
+There is in total 16 senses divided into indoor and outdoor two categories. The dataset is organized as follow:
+* Indoor: Meeting room、Class room and Reading room,etc.
+* Outdoor: Park、Street and Court,etc.
+320 groups quaternion images in total, each group is combined by 7 algorithm stitching results and 4 raw double-fisheye images.
 
-[//]:#![](https://github.com/Kaiwen1949/CRSQA/blob/master/Images/360_0792_lowresolution.JPG)
+## Functions
+The dataset can be used in omnidirectional image stitching quality assessment and stitching algorithm evaluation.
+* Add specific immersive image in quaternion group images, you can get the relative quality result among the images.
+* User utilizes a new stitching algorithm or your own method stiched result get the algorithm quality rank. (The average quality may better.)
 
 Each group images are composed by fisheye image and 7 omnidirectional stitching images which are as follow:
 <table>
@@ -39,4 +43,4 @@ Each group images are composed by fisheye image and 7 omnidirectional stitching 
 </table>
 
 ## Download dataset
-https://drive.google.com/open?id=1cNEwCeOfZCGKt8txYH0UgiNbL3FbCeEf (The datasets are being updated and will be uploaded in the next few months.)
+Link: https://pan.baidu.com/s/1fpCnGoFRfEb9Zfab_WnFHQ
